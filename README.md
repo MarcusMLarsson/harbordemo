@@ -6,6 +6,7 @@
   <p>Azure </p>
   <li> Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</li>
   <p> Event Hub/IoT Hub => Azure Stream Analytics => Power BI </p>
+  <p> HDinsight / Apache Spark </p>
   <li> tjänsten skall vara skalbar </li>
   <p> Event Hub är skalbar, kan processa upp till gb/s </p>
   <li> tjänsten skall inkludera behörighets- och rollstyrd åtkomst </li>
