@@ -1,6 +1,6 @@
 <h1> Demo for Göteborgs hamn</h1>
 
-## Krav
+<h3> Krav </h3>
 
 - [x] Implementering och etablering av en molnbaserad tjänst
 <br><i>Vi använder oss utav Microsoft Azure</i>
@@ -14,6 +14,6 @@
 <br><i>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst</i>
 - [ ] Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)
   
-## Arkitektur 
+<h3> Arkitektur </h3> 
   
 <img src="https://azurecomcdn.azureedge.net/cvt-86ffa9252fe53319ef8b7f87fd0209c71158b6ff642eefee2cf2f09309abdfef/images/page/services/event-hubs/serverless-streaming.svg">
