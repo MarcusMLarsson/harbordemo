@@ -7,7 +7,7 @@
 - [x] Tjänsten skall vara skalbar
 <br><i>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s</i>
 - [x] Tjänsten skall inkludera behörighets- och rollstyrd åtkomst
-<br><i> Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)
+<br><i> Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)</i>
 - [ ] Insamling och kvalitetssäkring av minst tre separata datakällor 
 - [ ] Sammanställ och presentera statistik och data till relevanta KPI:er
 - [x] Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis
