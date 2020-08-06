@@ -2,11 +2,11 @@
 
 <h3> Krav </h3>
 
-- [x] Implementering och etablering av en molnbaserad tjänst
+- [x] <b>Implementering och etablering av en molnbaserad tjänst<b>
 <br><i>Vi använder oss utav Microsoft Azure</i>
-- [x] Tjänsten skall vara skalbar
+- [x] <b>Tjänsten skall vara skalbar</b>
 <br><i>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s</i>
-- [x] Tjänsten skall inkludera behörighets- och rollstyrd åtkomst
+  - [x] <b>Tjänsten skall inkludera behörighets- och rollstyrd åtkomst</b>
 <br><i> Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)</i>
 - [ ] Insamling och kvalitetssäkring av minst tre separata datakällor 
 - [ ] Sammanställ och presentera statistik och data till relevanta KPI:er
