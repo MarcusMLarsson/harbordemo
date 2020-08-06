@@ -27,3 +27,7 @@
 <h4> Exempel HDinsight (Hortonworks Hadoop) </h4>
 
 <p align="center"><img src="https://docs.microsoft.com/sv-se/azure/architecture/solution-ideas/media/real-time-analytics.png"></p>
+
+<p align="center"><img src="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/media/streaming-using-hdinsight.png"></p>
+
+
