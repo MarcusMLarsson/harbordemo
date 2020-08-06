@@ -20,4 +20,4 @@
   
 <h3> Arkitektur </h3> 
   
-<img src="https://azurecomcdn.azureedge.net/cvt-86ffa9252fe53319ef8b7f87fd0209c71158b6ff642eefee2cf2f09309abdfef/images/page/services/event-hubs/serverless-streaming.svg">
+<p align="center"><img src="https://azurecomcdn.azureedge.net/cvt-86ffa9252fe53319ef8b7f87fd0209c71158b6ff642eefee2cf2f09309abdfef/images/page/services/event-hubs/serverless-streaming.svg"></p>
