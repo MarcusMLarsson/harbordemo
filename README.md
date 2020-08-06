@@ -3,7 +3,13 @@
 <h3> Krav </h3>
 
 - [x] Implementering och etablering av en molnbaserad tjänst
-<br><div class="text-purple">Vi använder oss utav Microsoft Azure</div>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 - [x] Tjänsten skall vara skalbar
 <br><i>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s</i>
 - [x] Tjänsten skall inkludera behörighets- och rollstyrd åtkomst
