@@ -3,7 +3,8 @@
 
 <ul>
   <li>Implementering och etablering av en molnbaserad tjänst </li>
-  - [x] Azure 
+- [x] Azure
+- [x] Azure 
   <li> Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</li>
   <p> Event Hub/IoT Hub => Azure Stream Analytics => Power BI </p>
   <p> HDinsight / Apache Spark </p>
