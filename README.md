@@ -3,15 +3,15 @@
 ## Krav
 
 - [x] Implementering och etablering av en molnbaserad tjänst
-<br>Azure
+<br><i>Vi använder oss utav Microsoft Azure</i>
 - [x] Tjänsten skall vara skalbar
-<br>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s
+<br><i>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s</i>
 - [x] Tjänsten skall inkludera behörighets- och rollstyrd åtkomst
-<br>Azure active directory (AD), role based access control (RBAC), shared access signatures (SAS)
+<br><i> Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)
 - [ ] Insamling och kvalitetssäkring av minst tre separata datakällor 
 - [ ] Sammanställ och presentera statistik och data till relevanta KPI:er
 - [x] Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis
-<br>Power BI
+<br><i>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst</i>
 - [ ] Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)
   
 ## Arkitektur 
