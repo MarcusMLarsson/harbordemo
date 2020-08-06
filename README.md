@@ -9,13 +9,13 @@
 - [x] <b>Tjänsten skall inkludera behörighets- och rollstyrd åtkomst</b>
 <br>Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)
 - [ ] <b>Insamling och kvalitetssäkring av minst tre separata datakällor</b>
-<br>...
+<br>Ej löst
 - [ ] <b>Sammanställ och presentera statistik och data till relevanta KPI:er</b>
-<br>...
+<br>Ej löst
 - [x] <b>Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis</b>
 <br>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst
 - [ ] <b>Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</b>
-<br>...
+<br>Ej löst
   
 <h3> Arkitektur </h3> 
   
