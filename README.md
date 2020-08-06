@@ -17,7 +17,6 @@
 - [ ] <b>Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</b>
 <br>Ej löst
 
-<hr>
   
 <h3> Arkitektur </h3> 
   
