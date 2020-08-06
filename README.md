@@ -3,15 +3,15 @@
 <h3> Krav </h3>
 
 - [x] <b>Implementering och etablering av en molnbaserad tjänst</b>
-<br><i>Vi använder oss utav Microsoft Azure</i>
+<br>Vi använder oss utav Microsoft Azure
 - [x] <b>Tjänsten skall vara skalbar</b>
-<br><i>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s</i>
-  - [x] <b>Tjänsten skall inkludera behörighets- och rollstyrd åtkomst</b>
-<br><i> Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)</i>
-- [ ] Insamling och kvalitetssäkring av minst tre separata datakällor 
-- [ ] Sammanställ och presentera statistik och data till relevanta KPI:er
-- [x] Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis
-<br><i>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst</i>
+<br>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s
+- [x] <b>Tjänsten skall inkludera behörighets- och rollstyrd åtkomst</b>
+<br>Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)
+- [ ] <b>Insamling och kvalitetssäkring av minst tre separata datakällor</b>
+- [ ] <b>Sammanställ och presentera statistik och data till relevanta KPI:er</b>
+- [x] <b>Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis</b>
+<br>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst
 - [ ] Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)
   
 <h3> Arkitektur </h3> 
