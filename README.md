@@ -2,7 +2,7 @@
 
 
 <h3> <a href="https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction"> Förslag 1:  End-to-end serverless streaming platform with Azure Stream Analytics </a></h3>  
-<p align="center"><img src="https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-e2e-pipeline.png"></p>
+<p align="center"><img src="https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-e2e-pipeline.png" width="1200"></p>
 
 - [x] <b>Implementering och etablering av en molnbaserad tjänst</b>
 <br>Vi använder oss utav Microsoft Azure
