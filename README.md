@@ -26,6 +26,23 @@
  
 <p align="center"><img src="https://docs.microsoft.com/sv-se/azure/architecture/solution-ideas/media/real-time-analytics.png"></p>
 
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+
+
+
+
+
 <p align="center"><img src="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/media/streaming-using-hdinsight.png"></p>
 
 
