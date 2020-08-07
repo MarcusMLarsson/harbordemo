@@ -11,8 +11,8 @@ namespace SampleSender
     public class Program
     {
         private static EventHubClient eventHubClient;
-        private const string EventHubConnectionString = "Endpoint=sb://namespacegbg.servicebus.windows.net/;SharedAccessKeyName=newpolicy;SharedAccessKey=nE++p/zJZF1QB16U4EcnybVGmZolstRYD+LXXOxCppw="; // Event Hubs namespace connection string
-        private const string EventHubName = "eventhub"; // event hub name
+        private const string EventHubConnectionString = ""; // Event Hubs namespace connection string
+        private const string EventHubName = ""; // event hub name
         private static bool SetRandomPartitionKey = false;
 
         public static void Main(string[] args)
