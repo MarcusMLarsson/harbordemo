@@ -28,9 +28,7 @@
 <br>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst
 - [ ] <b>Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</b>
 <br>Går att använda Azure ML service? Databricks är en bättre lösning?
-
-<hr>
-  
+ 
 <h3> <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics"> Förslag 2: Real Time Analytics on Big Data Architecture </a></h3> 
  
 <p align="center"><img src="https://docs.microsoft.com/sv-se/azure/architecture/solution-ideas/media/real-time-analytics.png"></p>
