@@ -22,7 +22,7 @@
 <br>Ej löst
 
   
-<h3> Förslag 1:  HDinsight (Hortonworks Hadoop) </h3> 
+<h3> <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics"> Förslag 2: Real Time Analytics on Big Data Architecture </a></h3> 
  
 <p align="center"><img src="https://docs.microsoft.com/sv-se/azure/architecture/solution-ideas/media/real-time-analytics.png"></p>
 
