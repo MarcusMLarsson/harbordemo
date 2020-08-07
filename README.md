@@ -11,7 +11,7 @@
 - [x] <b>Tjänsten skall inkludera behörighets- och rollstyrd åtkomst</b>
 <br>Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)
 - [x] <b>Insamling och kvalitetssäkring av minst tre separata datakällor</b>
-<br> Finns möjlighet att joina flera datakällor till ett streaming event. Går också att skriva data till flera outputs.
+<br> Finns möjlighet att använda och joina flera datakällor till ett streaming event. Går också att skriva data till flera outputs.
 - [x] <b>Sammanställ och presentera statistik och data till relevanta KPI:er</b>
 <br> Datan skickas till Power BI där den kan sammanställas och visualiseras
 - [x] <b>Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis</b>
@@ -27,14 +27,14 @@
 - [x] <b>Implementering och etablering av en molnbaserad tjänst</b>
 <br>Vi använder oss utav Microsoft Azure
 - [x] <b>Tjänsten skall vara skalbar</b>
-<br>Event Hub/IoT Hub är skalbar, kan processa upp till gb/s, använder Kafka protokoll
+<br> Kafka är väldigt skalbar, om en node crashar tillåter kafka automatisk återhämtning
 - [x] <b>Tjänsten skall inkludera behörighets- och rollstyrd åtkomst</b>
 <br>Microsoft Azure stödjer behörighets- och rollstyrd åtkomst (Azure active directory - AD, role based access control - RBAC, shared access signatures - SAS)
 - [x] <b>Insamling och kvalitetssäkring av minst tre separata datakällor</b>
-<br> Finns möjlighet att joina flera datakällor till ett streaming event. Går också att skriva data till flera outputs.
+<br> Finns möjlighet att använda och joina flera datakällor till ett streaming event. Går också att skriva data till flera outputs.
 - [x] <b>Sammanställ och presentera statistik och data till relevanta KPI:er</b>
 <br> Datan skickas till Power BI där den kan sammanställas och visualiseras
 - [x] <b>Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis</b>
 <br>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst
 - [ ] <b>Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</b>
-<br>Går att använda Azure ML service? Databricks borde vara en bättre lösning
+<br> Med hjälp av spark har vi tillgång till parallel processing för ML, AI, Deep learning, big data,  etc. Databricks miljön faciliterar sammarbete mellan data analytiker. 
