@@ -1,6 +1,10 @@
-<h1> Demo for Göteborgs hamn</h1>
+<h1> Demo for Göteborgs hamn - Förslag på arkitektur</h1>
 
-<h3> Krav </h3>
+
+<h3> Förslag 1:  Azure Stream Analytics </h3>  
+<p align="center"><img src="https://azurecomcdn.azureedge.net/cvt-86ffa9252fe53319ef8b7f87fd0209c71158b6ff642eefee2cf2f09309abdfef/images/page/services/event-hubs/serverless-streaming.svg"></p>
+
+<h4> Krav </h4>
 
 - [x] <b>Implementering och etablering av en molnbaserad tjänst</b>
 <br>Vi använder oss utav Microsoft Azure
@@ -18,14 +22,8 @@
 <br>Ej löst
 
   
-<h3> Arkitektur </h3> 
-  
-<h4> Exempel Azure Stream Analytics </h4>  
-<p align="center"><img src="https://azurecomcdn.azureedge.net/cvt-86ffa9252fe53319ef8b7f87fd0209c71158b6ff642eefee2cf2f09309abdfef/images/page/services/event-hubs/serverless-streaming.svg"></p>
-
-
-<h4> Exempel HDinsight (Hortonworks Hadoop) </h4>
-
+<h3> Förslag 1:  HDinsight (Hortonworks Hadoop) </h3> 
+ 
 <p align="center"><img src="https://docs.microsoft.com/sv-se/azure/architecture/solution-ideas/media/real-time-analytics.png"></p>
 
 <p align="center"><img src="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/media/streaming-using-hdinsight.png"></p>
