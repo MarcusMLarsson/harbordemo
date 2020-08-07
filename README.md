@@ -1,8 +1,8 @@
 <h1> Demo for Göteborgs hamn - Förslag på arkitektur</h1>
 
 
-<h3> Förslag 1:  Azure Stream Analytics </h3>  
-<p align="center"><img src="https://azurecomcdn.azureedge.net/cvt-86ffa9252fe53319ef8b7f87fd0209c71158b6ff642eefee2cf2f09309abdfef/images/page/services/event-hubs/serverless-streaming.svg"></p>
+<h3> <a href="https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction"> Förslag 1:  End-to-end serverless streaming platform with Azure Stream Analytics </h3>  
+<p align="center"><img src="https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-e2e-pipeline.png"></p>
 
 <h4> Krav </h4>
 
