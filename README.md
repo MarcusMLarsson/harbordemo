@@ -38,7 +38,7 @@
 
 | Resurs       | Förklaring      |
 | ------------- |:-------------:|
-| <p align="left">Azure HDInsight</p>   |  <p align="left">Azure HDInsight är Hortonworks Hadoop i Azure (molnet) och stödjer skapandet av Hadoop-kluster genom Linux och Ubunti. HDinsight innehåller bland annat Apache Spark, Apache Kafka, Apache Hive, Apache HBase mm.</p>  |
+| <p align="left">Azure HDInsight</p>   |  <p align="left">Azure HDInsight är Hortonworks Hadoop i Azure (molnet) och stödjer skapandet av Hadoop-kluster genom Linux och Ubuntu. HDinsight innehåller bland annat Apache Spark, Apache Kafka, Apache Hive, Apache HBase mm.</p>  |
 |  <p align="left">Apache Kafka</p>   |  <p align="left"> Apache Kafka är en distributerad event streaming paltform. Apache Kafka är en del av Hadoop ecosystemet.</p>|
 |  <p align="left">Apache Spark</p>  |  <p align="left"> genom parallel bearbetning (kluster) kan Apache Spark bprocessa stora mängder data. </p>|
 |  <p align="left">Azure Databricks</p>    |  <p align="left">Azure Databricks är en samarbetsplattform där dataingenjörer och data scientiest kan arbeta med maskininlärning, dataanalys, AI etc. Databricks använder sig av Apache Spark för att processa data.  </p> |   
