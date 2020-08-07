@@ -36,5 +36,5 @@
 <br> Datan skickas till Power BI där den kan sammanställas och visualiseras
 - [x] <b>Presentera realtidssanningar på ett lättillgängligt, användarvänligt, skalbart, säkert och rollbaserat vis</b>
 <br>Power BI har support for realtidsdata, är användarvänligt, skalbart och har support för rollstyrd åtkomst
-- [ ] <b>Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</b>
+- [x] <b>Skapa mening och ”smartifiera” aktuella realtidsdata med hjälp av innovativ teknik såsom AI, IoT m.m för prediktion (exempelvis ETA)</b>
 <br> Med hjälp av spark har vi tillgång till parallel processing för ML, AI, Deep learning, big data,  etc. Databricks miljön faciliterar sammarbete mellan data analytiker. 
