@@ -1,4 +1,4 @@
-<h1> Demo for Göteborgs hamn - Förslag på arkitektur</h1>
+<h1> Göteborgs hamn - Förslag på demo-arkitektur</h1>
 
 
 <h3> <a href="https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction"> Förslag 1:  End-to-end serverless streaming platform with Azure Stream Analytics </a></h3>  
