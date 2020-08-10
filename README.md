@@ -6,7 +6,7 @@
 
 <h4> Innehåll </h4>
 
-| Resurs       | Förklaring      |
+|       | Förklaring      |
 | ------------- |:-------------:|
 | <p align="left">Event/IoT Hub </p>   |  <p align="left">En big data strömningsplattform och händelseinmatningstjänst. Kan ta emot och behandla miljoner händelser per sekund. Kan ta emot realtidsdata eller batchdata. Är Kafka kompatibel.</p>  |
 |  <p align="left">Azure Stream Analytics </p>    |  <p align="left">Azure Stream Analytics är en event-processing engine som kan processa och bearbeta stora mängder realtidsdata från flera källor samtidigt.</p>|
@@ -36,7 +36,7 @@
 
 <h4> Innehåll </h4>
 
-| Resurs       | Förklaring      |
+|       | Förklaring      |
 | ------------- |:-------------:|
 | <p align="left">Azure HDInsight</p>   |  <p align="left">Azure HDInsight är Hortonworks Hadoop i Azure (molnet) och stödjer skapandet av Hadoop-kluster genom Linux och Ubuntu. HDinsight innehåller bland annat Apache Spark, Apache Kafka, Apache Hive, Apache HBase mm.</p>  |
 |  <p align="left">Apache Kafka</p>   |  <p align="left"> Apache Kafka är en distributerad event streaming paltform. Apache Kafka är en del av Hadoop ecosystemet.</p>|
